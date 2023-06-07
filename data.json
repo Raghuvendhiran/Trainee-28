@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3765e"
+  },
+  "user_name": "naveen kumar",
+  "codekata": 24,
+  "attendance": "p",
+  "topics": "HTML & CSS",
+  "tasks": "design Navbar",
+  "date": "18-10-2020",
+  "company_name": "Zoho",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3765f"
+  },
+  "user_name": "sathis",
+  "codekata": 44,
+  "attendance": "p",
+  "topics": "javascript-es6 concept",
+  "tasks": "restcontries api",
+  "date": "25-10-2020",
+  "company_name": "google",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37660"
+  },
+  "user_name": "vijay",
+  "codekata": 32,
+  "attendance": "p",
+  "topics": "javascript-es6 concept",
+  "tasks": "restcontries api",
+  "date": "18-10-2020",
+  "company_name": "Zoho",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37661"
+  },
+  "user_name": "kali",
+  "codekata": 30,
+  "attendance": "p",
+  "topics": "HTML Basic",
+  "tasks": "simple website layout",
+  "date": "15-10-2020",
+  "company_name": "microsoft",
+  "mentor": "gopi",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37662"
+  },
+  "user_name": "deepan",
+  "codekata": 25,
+  "attendance": "p",
+  "topics": "react",
+  "tasks": "price cart bootstrap",
+  "date": "21-10-2020",
+  "company_name": "Tcs",
+  "mentor": "lavish jain",
+  "istasksubmitted": "no"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37663"
+  },
+  "user_name": "deepak",
+  "codekata": 42,
+  "attendance": "p",
+  "topics": "fetch-api",
+  "tasks": "Async & await",
+  "date": "29-10-2020",
+  "company_name": "infosys",
+  "mentor": "gopi",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37664"
+  },
+  "user_name": "nandha",
+  "codekata": 50,
+  "attendance": "p",
+  "topics": "Nodejs ",
+  "tasks": "Nodejs file system",
+  "date": "22-10-2020",
+  "company_name": "tcs",
+  "mentor": "gopi",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37665"
+  },
+  "user_name": "umar",
+  "codekata": 24,
+  "attendance": "p",
+  "topics": "database-mysql",
+  "tasks": "db model design",
+  "date": "14-10-2020",
+  "company_name": "infosys",
+  "mentor": "prasanna",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37666"
+  },
+  "user_name": "naveen kumar",
+  "codekata": 30,
+  "attendance": "p",
+  "topics": "database-Mysql",
+  "tasks": "find- query & projection",
+  "date": "25-10-2020",
+  "company_name": "google",
+  "mentor": "prasanna",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37667"
+  },
+  "user_name": "priya",
+  "codekata": 26,
+  "attendance": "p",
+  "topics": "Database-Mongodb",
+  "tasks": "map,toArray,pretty,forEach",
+  "date": "30-10-2020",
+  "company_name": "Zoho",
+  "mentor": "lavish jain",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37668"
+  },
+  "user_name": "santhosh",
+  "codekata": 18,
+  "attendance": "a",
+  "topics": "Context API ",
+  "tasks": "implement a admin dashboard",
+  "date": "20-10-2020",
+  "company_name": "google",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37669"
+  },
+  "user_name": "kalpana",
+  "codekata": 24,
+  "attendance": "p",
+  "topics": "react router",
+  "tasks": "design an UI to implement the CRUD",
+  "date": "28-10-2020",
+  "company_name": "",
+  "mentor": "sai mohan",
+  "istasksubmitted": "no"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3766a"
+  },
+  "user_name": "yashika",
+  "codekata": 33,
+  "attendance": "a",
+  "topics": "javascript-es6 concept",
+  "tasks": "restcontries api",
+  "date": "31-10-2020",
+  "company_name": "microsoft",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3766b"
+  },
+  "user_name": "suriya",
+  "codekata": 20,
+  "attendance": "p",
+  "topics": "javascript",
+  "tasks": "Map,Reduce,Filter",
+  "date": "14-10-2020",
+  "company_name": "",
+  "mentor": "sai mohan",
+  "istasksubmitted": "no"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3766c"
+  },
+  "user_name": "nagend",
+  "codekata": 22,
+  "attendance": "a",
+  "topics": "HTML& CSS",
+  "tasks": "overflow-hidden,scroll,auto,visible",
+  "date": "16-10-2020",
+  "company_name": "",
+  "mentor": "gopi",
+  "istasksubmitted": "no"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3766d"
+  },
+  "user_name": "yalini",
+  "codekata": 27,
+  "attendance": "p",
+  "topics": "HTML-basic",
+  "tasks": "simple website layout",
+  "date": "19-10-2020",
+  "company_name": "HCl",
+  "mentor": "lavish jain",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3766e"
+  },
+  "user_name": "bharathi",
+  "codekata": 20,
+  "attendance": "a",
+  "topics": "Documnet & Window",
+  "tasks": "prompt,alert,confirm",
+  "date": "26-10-2020",
+  "company_name": "Amazon",
+  "mentor": "prasanna",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b3766f"
+  },
+  "user_name": "sarath",
+  "codekata": 35,
+  "attendance": "p",
+  "topics": "formik in react",
+  "tasks": "implement crud operation",
+  "date": "12-10-2020",
+  "company_name": "Amazon",
+  "mentor": "gopi",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37670"
+  },
+  "user_name": "kavya",
+  "codekata": 22,
+  "attendance": "a",
+  "topics": "promise",
+  "tasks": "promise chain",
+  "date": "15-10-2020",
+  "company_name": "",
+  "mentor": "sai mohan",
+  "istasksubmitted": "no"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37671"
+  },
+  "user_name": "abi",
+  "codekata": 25,
+  "attendance": "p",
+  "topics": "react",
+  "tasks": "price cart bootstrap",
+  "date": "28-10-2020",
+  "company_name": "Amazon",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37672"
+  },
+  "user_name": "ashok",
+  "codekata": 20,
+  "attendance": "a",
+  "topics": "react",
+  "tasks": "simple ecom add,dlt,incr,dec",
+  "date": "18-10-2020",
+  "company_name": "",
+  "mentor": "lavish jain",
+  "istasksubmitted": "no"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37673"
+  },
+  "user_name": "silambu",
+  "codekata": 28,
+  "attendance": "p",
+  "topics": "full stack pizza app",
+  "tasks": "both front end backend",
+  "date": "21-10-2020",
+  "company_name": "microsoft",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+},{
+  "_id": {
+    "$oid": "62fb78b01a8c8112d5b37674"
+  },
+  "user_name": "bala",
+  "codekata": 18,
+  "attendance": "p",
+  "topics": "axios ",
+  "tasks": "login crud opeartion both front and backend",
+  "date": "29-10-2020",
+  "company_name": "amazon",
+  "mentor": "sai mohan",
+  "istasksubmitted": "yes"
+}]
